@@ -10,4 +10,9 @@ public class GitJava {
 		
 	}
 	
+	public String printHelloWorld2() {
+		return "Hello World edited test" ;
+		
+	}
+	
 }
