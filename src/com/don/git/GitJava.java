@@ -18,6 +18,11 @@ public class GitJava {
 		return "Hello World edited test" ;
 		
 	}
+	
+	public String helloLang() {
+		return "Hello World edited test" ;
+		
+	}
 
 
 	
