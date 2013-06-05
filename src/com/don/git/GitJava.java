@@ -1,5 +1,9 @@
 package com.don.git;
 
+import static org.junit.Assert.assertTrue;
+
+import com.test.Main;
+
 public class GitJava {
 	public String printHelloWorld() {
 		return "Hello World edited test";
@@ -10,6 +14,7 @@ public class GitJava {
 		
 	}
 	
+
 	public String printHelloWorld2() {
 		return "Hello World edited test" ;
 		
@@ -24,6 +29,10 @@ public class GitJava {
 		
 	}
 
+	public void test() {
+		//
+		
+	}
 
 	
 }
