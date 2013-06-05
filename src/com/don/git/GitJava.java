@@ -14,8 +14,11 @@ public class GitJava {
 		return "Hello World edited test" ;
 		
 	}
-	
-added to new branch
-latest 1
+	public String helloMaster() {
+		return "Hello World edited test" ;
+		
+	}
+
+
 	
 }
