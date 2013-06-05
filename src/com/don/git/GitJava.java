@@ -1,5 +1,9 @@
 package com.don.git;
 
+import static org.junit.Assert.assertTrue;
+
+import com.test.Main;
+
 public class GitJava {
 	public String printHelloWorld() {
 		return "Hello World edited test";
@@ -10,7 +14,9 @@ public class GitJava {
 		
 	}
 	
-	gitnes
-	asdasd
+	public void test() {
+		Main differentHello = new Main();
+		assertTrue("hello world".equals(differentHello.helloWorld()));
+	}
 	
 }
